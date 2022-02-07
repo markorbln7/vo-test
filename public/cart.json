@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "0001",
+      "title": "Croissants",
+      "category": "breakfast",
+      "price": 7.99,
+      "quantity": 2
+    },
+    {
+      "id": "0002",
+      "title": "Baguette",
+      "category": "breakfast",
+      "price": 5.99,
+      "quantity": 2
+    },
+    {
+      "id": "0003",
+      "title": "Espresso",
+      "category": "drink",
+      "price": 4.99,
+      "quantity": 1
+    },
+    {
+      "id": "0004",
+      "title": "Latte",
+      "category": "drink",
+      "price": 3.99,
+      "quantity": 1
+    }
+  ]
+}
